@@ -1,0 +1,18 @@
+name: Validar questões
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validar:
+    name: Estrutura e taxonomia
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - run: mkdir -p entradas && python3 -B scripts/validar_lotes.py entradas
