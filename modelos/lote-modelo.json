@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "lote_id": "20261123T194313Z_1b19745dfaf5",
+  "titulo": "",
+  "autor": "Preencher autoria",
+  "origem": "GitHub: Saúde A — contribuição original",
+  "data_criacao": "2026-11-23T19:43:13.181265+00:00",
+  "questoes": [
+    {
+      "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59",
+      "profissao": "Enfermagem",
+      "publico": "",
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.04",
+      "subcategoria": "Trauma e queimaduras",
+      "tema": "",
+      "objetivo": "",
+      "nivel_cognitivo": "",
+      "dificuldade": "Moderada",
+      "justificativa": "",
+      "prova_banca": "Questão original; prova não especificada.",
+      "tipo_resposta": "unica",
+      "enunciado": "",
+      "alternativas": [
+        {
+          "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59_OP01",
+          "texto": ""
+        },
+        {
+          "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59_OP02",
+          "texto": ""
+        },
+        {
+          "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59_OP03",
+          "texto": ""
+        },
+        {
+          "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59_OP04",
+          "texto": ""
+        },
+        {
+          "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59_OP05",
+          "texto": ""
+        }
+      ],
+      "gabarito": [
+        {
+          "id": "SA10_04_ee06d8db-803f-4480-9e79-5261fd78ee59_OP01",
+          "texto": ""
+        }
+      ],
+      "explicacao": "",
+      "dica_professor": "",
+      "referencias": [
+        {
+          "citacao": "",
+          "url": "",
+          "localizacao": "",
+          "data_acesso": "2026-11-23"
+        }
+      ],
+      "data_validacao": "2026-11-23",
+      "status_editorial": "Rascunho; revisão especializada pendente",
+      "auditoria": ""
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "versao": "2026-11-02",
+  "profissao": "Enfermagem",
+  "subcategorias": [
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.01",
+      "subcategoria": "Lei do Exercício Profissional e Sistema Cofen/Corens",
+      "escopo": "Lei 7.498/1986 e Decreto 94.406/1987 (atividades privativas do enfermeiro, atribuições de técnicos e auxiliares, delegação e supervisão); Lei 5.905/1973; competências do Cofen e dos Corens; inscrição, fiscalização e responsabilidade técnica.",
+      "exclusoes": "Resoluções com tema próprio ficam no tema (PE → 01.04; dimensionamento → 11.05; feridas → 02.05; hemoterapia → 07.07; classificação de risco → 10.01). Atribuições do enfermeiro na APS → 03.07."
+    },
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.02",
+      "subcategoria": "Ética, bioética e responsabilidade profissional",
+      "escopo": "Código de Ética dos Profissionais de Enfermagem (direitos, deveres, proibições, infrações e penalidades); responsabilidade ética, civil, penal e administrativa (imperícia, imprudência, negligência); processo ético; princípios da bioética; consentimento; diretivas antecipadas de vontade; dilemas no início e no fim da vida.",
+      "exclusoes": "Ética em pesquisa → 01.06; sigilo e prontuário → 01.05."
+    },
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.03",
+      "subcategoria": "História e teorias de enfermagem",
+      "escopo": "Florence Nightingale e a enfermagem moderna; enfermagem no Brasil (Anna Nery, Escola Anna Nery, ABEn); metaparadigma; teorias de Horta, Orem, Peplau, King, Roy, Leininger, Watson, Neuman e outras; aplicação das teorias ao PE.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.04",
+      "subcategoria": "Sistematização da assistência de enfermagem e Processo de enfermagem",
+      "escopo": "SAE × Processo de Enfermagem; conceito e etapas do PE (avaliação, diagnóstico, planejamento, implementação e evolução); responsabilidades da equipe e implantação nos serviços; raciocínio e julgamento clínico; NANDA-I (estrutura e componentes dos diagnósticos); NIC e NOC; CIPE; prescrição de enfermagem; avaliação de resultados.",
+      "exclusoes": "Técnica de anamnese e exame físico → 02.01."
+    },
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.05",
+      "subcategoria": "Registros, sigilo e comunicação em enfermagem",
+      "escopo": "Anotação × evolução; prontuário físico e eletrônico; requisitos legais do registro; sigilo profissional e suas exceções; direitos do paciente e LGPD; comunicação verbal e não verbal; comunicação terapêutica e relacionamento enfermeiro–paciente–família.",
+      "exclusoes": "Comunicação entre profissionais (SBAR, passagem de plantão) → 11.02; auditoria de prontuário → 11.07; más notícias em cuidados paliativos → 07.10."
+    },
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.06",
+      "subcategoria": "Pesquisa, prática baseada em evidências e ética em pesquisa",
+      "escopo": "Pesquisa quantitativa, qualitativa e mista; etapas do projeto; amostragem, instrumentos e noções de bioestatística; PBE (PICO, níveis de evidência, GRADE, revisões, leitura crítica); ética em pesquisa (TCLE, CEP/Conep, integridade científica).",
+      "exclusoes": "Estudos epidemiológicos e medidas de associação → 04.01."
+    },
+    {
+      "categoria_codigo": "01",
+      "categoria": "Ética, Legislação e Bases Teóricas da Enfermagem",
+      "subcategoria_codigo": "01.07",
+      "subcategoria": "Formação profissional, educação permanente e preceptoria",
+      "escopo": "DCN de Enfermagem e áreas de competência; competência como integração de conhecimentos, habilidades e atitudes; metodologias ativas; simulação clínica e debriefing; avaliação de competências; educação permanente × continuada (PNEPS); preceptoria, tutoria, residências e integração ensino-serviço.",
+      "exclusoes": "Educação em saúde com usuários e comunidade → 03.09."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.01",
+      "subcategoria": "Anamnese, exame físico e sinais vitais",
+      "escopo": "Entrevista e história de saúde; inspeção, palpação, percussão e ausculta; exame físico geral e por sistemas (inclui escala de coma de Glasgow e especificidades na diversidade étnico-racial e de gênero); temperatura, pulso, respiração, pressão arterial (técnica e valores por faixa etária) e oximetria; peso, altura, IMC e circunferências; glicemia capilar.",
+      "exclusoes": "Exames laboratoriais e de imagem → 02.02; exame obstétrico → 05.04; exame da criança → 06.02; avaliação multidimensional do idoso → 07.11."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.02",
+      "subcategoria": "Exames diagnósticos",
+      "escopo": "Exames laboratoriais (hemograma, bioquímica, coagulograma, urina, fezes e culturas): preparo do paciente, coleta, valores de referência e interpretação; exames de imagem e endoscópicos: preparo e cuidados antes e depois do exame.",
+      "exclusoes": "Gasometria nos distúrbios ácido-base → 10.07."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.03",
+      "subcategoria": "Dor: avaliação, analgesia e medidas não farmacológicas",
+      "escopo": "Fisiologia da dor; dor como 5º sinal vital; escalas (numérica, visual analógica, faces, FLACC, BPS); analgésicos não opioides, AINEs e opioides (efeitos adversos, naloxona); escada analgésica da OMS; medidas não farmacológicas; reavaliação.",
+      "exclusoes": "Dor e sintomas em cuidados paliativos → 07.10; dor na criança → 06.06; sedoanalgesia na UTI → 10.08."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.04",
+      "subcategoria": "Higiene, conforto e mobilização",
+      "escopo": "Banho, higiene oral e íntima; arrumação do leito; mudança de decúbito, posicionamento, transferência e transporte; calor e frio; complicações da imobilidade; contenção mecânica (indicações e cuidados).",
+      "exclusoes": "Prevenção de LPP → 02.05; protocolo de quedas → 11.02; contenção na crise psiquiátrica → 08.06."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.05",
+      "subcategoria": "Pele, lesão por pressão, feridas e coberturas",
+      "escopo": "Anatomia e fisiologia da pele; fases e tipos de cicatrização; avaliação da ferida (TIME/TIMERS); técnica de curativo; coberturas e terapias adjuvantes; desbridamento; terapia por pressão negativa; lesão por pressão (fatores de risco, escala de Braden, prevenção, estadiamento, lesão por dispositivo médico); úlceras venosas e arteriais; índice tornozelo-braquial; pé diabético; dermatite associada à incontinência, lesões por fricção e por adesivos; atribuições da equipe.",
+      "exclusoes": "Manejo clínico do diabetes → 07.04. Questões sobre lesão por pressão recebem a etiqueta 'Segurança do paciente'."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.06",
+      "subcategoria": "Oxigenoterapia, aspiração e cuidados com vias aéreas",
+      "escopo": "Dispositivos de baixo e alto fluxo (cateter nasal, máscaras, Venturi); umidificação e inaloterapia; aspiração de vias aéreas; cuidados com traqueostomia.",
+      "exclusoes": "Ventilação mecânica e VNI → 10.06."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.07",
+      "subcategoria": "Terapia nutricional, eliminações vesicais e intestinais",
+      "escopo": "Sondagem nasogástrica e nasoentérica (inserção, confirmação de posicionamento, cuidados); gastrostomia; nutrição enteral e parenteral; dietas hospitalares; cateterismo vesical de alívio e de demora; coleta de urina; controle de diurese e balanço hídrico; enemas; estomias intestinais (colostomia, ileostomia) e urinárias (urostomia, cistostomia): tipos, equipamentos coletores e adjuvantes, troca da bolsa, cuidados com a pele periestomal, irrigação, orientação para o autocuidado e direitos da pessoa com estomia.",
+      "exclusoes": "Demarcação do local da estomia e complicações no pós-operatório → 09.04; prevenção de ITU associada a cateter → 12.04."
+    },
+    {
+      "categoria_codigo": "02",
+      "categoria": "Semiologia, Semiotécnica e Administração de Medicamentos",
+      "subcategoria_codigo": "02.08",
+      "subcategoria": "Princípios de farmacologia e administração de medicamentos",
+      "escopo": "Farmacocinética e farmacodinâmica; meia-vida; interações e reações adversas; particularidades em gestantes, crianças e idosos; vias oral, sublingual, retal, tópica, inalatória, intradérmica, subcutânea, intramuscular (locais, volumes, técnica em Z) e endovenosa; preparo e administração por sonda; terapia intravenosa (punção venosa periférica; CVC, PICC e cateter totalmente implantado: manutenção, curativo e flushing; flebite e infiltração; bombas de infusão; soluções cristaloides e coloides; eletrólitos e incompatibilidades); cálculo de medicamentos (regra de três, porcentagem e concentração; diluição e rediluição; gotas e microgotas; vazão em bomba de infusão; insulina, heparina e penicilina cristalina; doses por peso; drogas vasoativas).",
+      "exclusoes": "Classes de medicamentos ficam no sistema ou na área em que são usadas (ex.: anti-hipertensivos → 07.01; insulinas → 07.04; antimicrobianos → 12.02; psicofármacos → 08.03 e 08.04); segurança medicamentosa → 11.02; pacote de prevenção de infecção de corrente sanguínea → 12.04; transfusão → 07.07; distúrbios hidroeletrolíticos no paciente crítico → 10.07."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.01",
+      "subcategoria": "SUS: história, princípios e Leis Orgânicas",
+      "escopo": "Modelos de atenção antes do SUS; Reforma Sanitária e 8ª Conferência Nacional de Saúde; arts. 196 a 200 da CF/1988; Lei 8.080/1990 (objetivos, princípios, diretrizes, competências); Lei 8.142/1990; NOBs, NOAS e Pacto pela Saúde.",
+      "exclusoes": "Controle social em profundidade → 03.03; financiamento → 03.02."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.02",
+      "subcategoria": "Organização, planejamento e financiamento do SUS",
+      "escopo": "Decreto 7.508/2011 (regiões de saúde, portas de entrada, RENASES, RENAME); comissões intergestores (CIT, CIB, CIR); instrumentos de planejamento; aplicação mínima de recursos; transferências fundo a fundo; cofinanciamento federal da APS.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.03",
+      "subcategoria": "Participação e controle social",
+      "escopo": "Conselhos e conferências de saúde (composição, paridade, atribuições); ouvidorias; participação comunitária.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.04",
+      "subcategoria": "Redes de Atenção à Saúde, regulação e humanização",
+      "escopo": "Conceito e elementos das RAS; redes temáticas; regulação do acesso; linhas de cuidado; Política Nacional de Humanização (acolhimento, clínica ampliada, cogestão, ambiência).",
+      "exclusoes": "O conteúdo assistencial de cada rede fica na área: Rede Alyne → 05.01; RAPS → 08.01; Rede de Urgência → 10.01."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.05",
+      "subcategoria": "Políticas de equidade e saúde de populações específicas",
+      "escopo": "Saúde da população negra, indígena, LGBT, em situação de rua, privada de liberdade, do campo, floresta e águas, pessoas com deficiência e migrantes; saúde do homem (PNAISH, pré-natal do parceiro); determinantes sociais e iniquidades.",
+      "exclusoes": "Políticas por ciclo de vida ficam no ciclo: mulher → 05.01; criança → 06.01; pessoa idosa → 07.11."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.06",
+      "subcategoria": "Atenção Primária e Estratégia Saúde da Família",
+      "escopo": "PNAB (princípios, diretrizes, tipos de equipe, população adscrita); atributos da APS; eMulti; territorialização, área e microárea; cadastro individual e domiciliar; atribuições do ACS; e-SUS APS.",
+      "exclusoes": "Sistemas de informação de base nacional (SINAN, SIM, SINASC) → 04.02."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.07",
+      "subcategoria": "Consulta de enfermagem, atribuições e acolhimento na APS",
+      "escopo": "Atribuições do enfermeiro na PNAB; consulta de enfermagem; solicitação de exames e prescrição conforme protocolos; supervisão da equipe e do ACS; acolhimento à demanda espontânea e avaliação de risco e vulnerabilidade na UBS.",
+      "exclusoes": "Pré-natal → 05.04; puericultura → 06.02; classificação de risco em pronto-socorro/UPA → 10.01; conteúdo clínico das doenças → categorias clínicas."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.08",
+      "subcategoria": "Abordagem familiar, visita e atenção domiciliar",
+      "escopo": "Genograma, ecomapa, ciclo de vida familiar, APGAR familiar; Projeto Terapêutico Singular na APS; visita domiciliar (planejamento e etapas); modalidades AD1, AD2 e AD3; Programa Melhor em Casa; apoio ao cuidador.",
+      "exclusoes": "PTS em saúde mental → 08.01."
+    },
+    {
+      "categoria_codigo": "03",
+      "categoria": "Políticas de Saúde e Atenção Primária",
+      "subcategoria_codigo": "03.09",
+      "subcategoria": "Promoção e educação em saúde",
+      "escopo": "Conceitos e cartas de promoção da saúde; Política Nacional de Promoção da Saúde; PNPIC; Programa Saúde na Escola; prevenção de fatores de risco; concepções de educação em saúde (tradicional e dialógica); educação popular e Paulo Freire; grupos e tecnologias educativas.",
+      "exclusoes": "Níveis de prevenção → 04.01; tratamento do tabagismo e da dependência → 08.05; educação permanente dos profissionais → 01.07."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.01",
+      "subcategoria": "Epidemiologia: conceitos e prevenção",
+      "escopo": "Processo saúde-doença e determinantes sociais; história natural da doença e níveis de prevenção (Leavell & Clark); prevenção quaternária; transições demográfica e epidemiológica; desenhos de estudo (ecológico, transversal, caso-controle, coorte, ensaio clínico); risco relativo e odds ratio; sensibilidade, especificidade e valores preditivos.",
+      "exclusoes": "Metodologia da pesquisa e PBE → 01.06."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.02",
+      "subcategoria": "Indicadores de saúde e sistemas de informação",
+      "escopo": "Incidência, prevalência, mortalidade (geral, infantil, materna), letalidade e morbidade; razão, proporção e coeficiente; SINAN, SIM, SINASC, SIH, SIA, SI-PNI e CNES; declaração de óbito e de nascido vivo; CID-10 e CID-11.",
+      "exclusoes": "Indicadores de qualidade assistencial → 11.03."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.03",
+      "subcategoria": "Vigilância epidemiológica, sanitária e ambiental e notificação compulsória",
+      "escopo": "Funções e ações da vigilância em saúde; notificação imediata e semanal; investigação de casos e surtos; emergências em saúde pública; notificação de violências; vigilância sanitária (campo de atuação, SNVS) e vigilância em saúde ambiental.",
+      "exclusoes": "Manejo clínico das doenças → 04.07 a 04.10; violência contra grupos específicos → 05.01, 06.01 e 07.12."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.04",
+      "subcategoria": "Saúde do trabalhador",
+      "escopo": "PNSTT; RENAST e CEREST; doenças e agravos relacionados ao trabalho (LER/DORT, PAIR, pneumoconioses, dermatoses); notificação de acidentes de trabalho; normas regulamentadoras (NR-4, 5, 7, 9, 15, 17); ergonomia.",
+      "exclusoes": "NR-32, riscos biológicos e acidentes com material biológico → 12.07; estresse e burnout na equipe de enfermagem → 11.06."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.05",
+      "subcategoria": "Programa Nacional de Imunizações",
+      "escopo": "Histórico e organização do PNI; estratégias (rotina, campanha, bloqueio, intensificação); coberturas vacinais; imunologia aplicada (imunidade ativa e passiva); tipos de vacinas, soros e imunoglobulinas; intervalos e coadministração; Calendário Nacional de Vacinação (criança, adolescente, adulto, idoso e gestante) e condutas diante de atraso vacinal; sala de vacinação (estrutura, triagem, técnicas por via, registro no SI-PNI); rede de frio (temperaturas, equipamentos, caixas térmicas, monitoramento e condutas diante de desvios).",
+      "exclusoes": "Exigências de vacinação da NR-32 → 12.07; ESAVI, contraindicações, CRIE e profilaxias pós-exposição → 04.06."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.06",
+      "subcategoria": "ESAVI, CRIE e profilaxias pós-exposição",
+      "escopo": "Eventos supostamente atribuíveis à vacinação ou imunização (classificação, notificação e investigação); contraindicações e precauções; CRIE e grupos especiais; profilaxia da raiva humana (pré e pós-exposição) e do tétano.",
+      "exclusoes": "PEP para HIV e hepatites → 04.08; exposição ocupacional → 12.07."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.07",
+      "subcategoria": "Tuberculose e hanseníase",
+      "escopo": "Tuberculose: transmissão, diagnóstico (baciloscopia, teste rápido molecular, cultura), tratamento e TDO, infecção latente, contatos e coinfecção TB-HIV. Hanseníase: classificação operacional, avaliação neurológica simplificada, grau de incapacidade, poliquimioterapia, reações hansênicas e contatos.",
+      "exclusoes": "Precauções para aerossóis no hospital → 12.03."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.08",
+      "subcategoria": "IST, HIV/aids e hepatites virais",
+      "escopo": "Sífilis adquirida, HPV, herpes, gonorreia, clamídia, tricomoníase; abordagem sindrômica; testes rápidos; tratamento de parcerias; prevenção combinada; HIV (testagem, TARV, adesão, infecções oportunistas); PEP e PrEP; hepatites A a E.",
+      "exclusoes": "Infecções na gestação e transmissão vertical → 05.06; sífilis congênita no RN → 06.04; exposição ocupacional → 12.07; violência sexual → 05.01."
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.09",
+      "subcategoria": "Arboviroses e doenças transmitidas por vetores",
+      "escopo": "Dengue (classificação de risco, manejo e hidratação), chikungunya, zika, febre amarela, malária, leishmanioses e doença de Chagas.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "04",
+      "categoria": "Vigilância em Saúde, Imunização e Doenças Transmissíveis",
+      "subcategoria_codigo": "04.10",
+      "subcategoria": "Doenças imunopreveníveis, respiratórias, zoonoses e parasitoses",
+      "escopo": "Sarampo, rubéola, caxumba, varicela, coqueluche, difteria, tétano, poliomielite e meningites; influenza e COVID-19; raiva (vigilância), leptospirose, hantavirose, esporotricose; doenças diarreicas e cólera; toxoplasmose; esquistossomose, geo-helmintíases, escabiose e pediculose; parasitologia básica.",
+      "exclusoes": "Vacinas → 04.05; profilaxia antirrábica → 04.06; diarreia e desidratação na criança → 06.05."
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.01",
+      "subcategoria": "Políticas, direitos reprodutivos e violência contra a mulher",
+      "escopo": "PNAISM; Rede Alyne (substituiu a Rede Cegonha em 2024); mortalidade materna; direitos sexuais e reprodutivos; Lei Maria da Penha; notificação da violência; atendimento à violência sexual (profilaxias, contracepção de emergência); interrupção legal da gestação.",
+      "exclusoes": "Conceito geral de Redes de Atenção → 03.04; sistema de notificação de violências → 04.03."
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.02",
+      "subcategoria": "Planejamento familiar e contracepção",
+      "escopo": "Métodos comportamentais, de barreira, hormonais (mecanismo de ação e efeitos adversos), DIU e contracepção de emergência; critérios de elegibilidade; esterilização cirúrgica (requisitos legais).",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.03",
+      "subcategoria": "Ginecologia, climatério e rastreamento dos cânceres do colo e de mama",
+      "escopo": "Anatomia e fisiologia do sistema reprodutor feminino e ciclo menstrual; vulvovaginites, doença inflamatória pélvica, alterações menstruais, miomas, endometriose, incontinência urinária; climatério e menopausa; rastreamento do câncer do colo do útero (citopatológico e teste de DNA-HPV) e de mama.",
+      "exclusoes": "IST → 04.08; vacinação contra HPV → 04.05."
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.04",
+      "subcategoria": "Fisiologia da gestação e pré-natal de risco habitual",
+      "escopo": "Fisiologia e modificações gravídicas; diagnóstico da gestação; idade gestacional e data provável do parto; consultas e exames por trimestre; altura uterina, BCF e manobras de Leopold; suplementação; queixas comuns; Caderneta da Gestante.",
+      "exclusoes": "Vacinas na gestação → 04.05; infecções na gestação → 05.06; pré-natal do parceiro → 03.05."
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.05",
+      "subcategoria": "Gestação de alto risco e intercorrências obstétricas",
+      "escopo": "Síndromes hipertensivas (pré-eclâmpsia, eclâmpsia, HELLP; sulfato de magnésio e anti-hipertensivos); diabetes gestacional; abortamento, gravidez ectópica e mola; placenta prévia e descolamento prematuro de placenta; trabalho de parto prematuro (tocolíticos, corticoide antenatal); rotura prematura de membranas.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.06",
+      "subcategoria": "Infecções na gestação e prevenção da transmissão vertical",
+      "escopo": "Sífilis, HIV, hepatites B e C, HTLV, toxoplasmose, estreptococo do grupo B e ITU na gestação: rastreamento, tratamento e prevenção da transmissão vertical.",
+      "exclusoes": "Sífilis congênita no RN → 06.04."
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.07",
+      "subcategoria": "Trabalho de parto, parto e nascimento",
+      "escopo": "Fisiologia e mecanismo do parto; períodos clínicos; partograma; boas práticas e métodos não farmacológicos de alívio da dor; indução e condução (ocitocina); assistência de enfermagem obstétrica; cuidados na cesárea.",
+      "exclusoes": "Cuidados imediatos ao RN → 06.04."
+    },
+    {
+      "categoria_codigo": "05",
+      "categoria": "Saúde da Mulher e Obstetrícia",
+      "subcategoria_codigo": "05.08",
+      "subcategoria": "Puerpério e suas complicações",
+      "escopo": "Fisiologia do puerpério; consulta puerperal; hemorragia pós-parto (causas, prevenção, uterotônicos e manejo); infecção puerperal; tromboembolismo; transtornos mentais do puerpério.",
+      "exclusoes": "Aleitamento e intercorrências mamárias → 06.03."
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.01",
+      "subcategoria": "Políticas, direitos e proteção da criança e do adolescente",
+      "escopo": "PNAISC; ECA; Caderneta da Criança; mortalidade infantil; violência contra crianças e adolescentes (sinais de alerta, notificação e rede de proteção).",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.02",
+      "subcategoria": "Crescimento, desenvolvimento e puericultura",
+      "escopo": "Consultas de puericultura; exame físico da criança; curvas de crescimento (OMS); marcos do desenvolvimento; suplementação de ferro e vitamina A; prevenção de acidentes.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.03",
+      "subcategoria": "Aleitamento materno e alimentação complementar",
+      "escopo": "Fisiologia da lactação; pega e posicionamento; intercorrências mamárias; ordenha, armazenamento e bancos de leite; NBCAL; alimentação complementar.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.04",
+      "subcategoria": "Neonatologia: recém-nascido sem complicações e de risco",
+      "escopo": "Adaptação neonatal; cuidados imediatos; Apgar; reanimação neonatal; profilaxias; triagens neonatais; icterícia; alojamento conjunto; prematuridade e baixo peso; termorregulação; desconforto respiratório; sepse neonatal; sífilis congênita; Método Canguru; UTI neonatal.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.05",
+      "subcategoria": "Doenças prevalentes na infância",
+      "escopo": "AIDPI; infecções respiratórias agudas e pneumonia; diarreia aguda e desidratação (planos A, B e C); febre; anemia ferropriva; desnutrição e obesidade; parasitoses intestinais.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.06",
+      "subcategoria": "Criança hospitalizada e urgências pediátricas",
+      "escopo": "Impacto da hospitalização; cuidado centrado na família; brinquedo terapêutico; dor na criança; particularidades dos procedimentos e da farmacologia pediátrica; reconhecimento da criança grave; PCR pediátrica; obstrução de vias aéreas; choque; convulsão febril; intoxicações e acidentes na infância.",
+      "exclusoes": "Cálculo de doses por peso → 02.08."
+    },
+    {
+      "categoria_codigo": "06",
+      "categoria": "Saúde da Criança e do Adolescente",
+      "subcategoria_codigo": "06.07",
+      "subcategoria": "Saúde do adolescente",
+      "escopo": "Crescimento e puberdade; saúde sexual e reprodutiva; gravidez na adolescência; uso de substâncias; comportamentos de risco; Caderneta de Saúde do Adolescente.",
+      "exclusoes": "Transtornos mentais (inclusive TEA, TDAH e transtornos alimentares) → 08.07."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.01",
+      "subcategoria": "Sistema cardiovascular e patologias",
+      "escopo": "Anatomia e fisiologia cardiovascular (ciclo e débito cardíaco, pressão arterial); hipertensão, insuficiência cardíaca, doença arterial coronariana, arritmias, valvopatias, doença arterial periférica, TVP e TEP; anti-hipertensivos, diuréticos, digitálicos, antiarrítmicos, nitratos, anticoagulantes e seus antídotos; cuidados de enfermagem.",
+      "exclusoes": "Síndrome coronariana aguda e crise hipertensiva → 10.02; úlceras vasculares → 02.05; drogas vasoativas no choque → 10.05."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.02",
+      "subcategoria": "Sistema respiratório e patologias",
+      "escopo": "Anatomia e fisiologia respiratória (ventilação, trocas gasosas, controle da respiração); asma, DPOC, pneumonias, derrame pleural, pneumotórax, bronquiectasias; broncodilatadores e corticoides inalatórios; cuidados de enfermagem.",
+      "exclusoes": "Tuberculose → 04.07; insuficiência respiratória aguda → 10.03; ventilação mecânica → 10.06; drenos de tórax → 09.04."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.03",
+      "subcategoria": "Sistema nervoso e patologias",
+      "escopo": "Anatomia e fisiologia do sistema nervoso; AVC (cuidado pós-agudo e reabilitação); epilepsia e anticonvulsivantes; doença de Parkinson; esclerose múltipla; miastenia; Guillain-Barré; cefaleias; avaliação neurológica seriada; cuidados de enfermagem.",
+      "exclusoes": "AVC agudo e trombólise → 10.03; TCE → 10.04 e 10.08; demências → 07.12."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.04",
+      "subcategoria": "Sistema endócrino, metabolismo e patologias",
+      "escopo": "Anatomia e fisiologia endócrina e metabólica; diabetes mellitus (diagnóstico, metas, complicações, autocuidado); insulinas (tipos, ação, preparo, mistura, rodízio) e antidiabéticos orais; tireoidopatias; distúrbios adrenais e corticosteroides; obesidade e síndrome metabólica.",
+      "exclusoes": "Cetoacidose e hipoglicemia grave → 10.03; pé diabético → 02.05; diabetes gestacional → 05.05."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.05",
+      "subcategoria": "Sistema renal, vias urinárias e patologias",
+      "escopo": "Anatomia e fisiologia renal e urinária; lesão renal aguda; doença renal crônica; hemodiálise e diálise peritoneal (acessos, complicações, cuidados); ITU; litíase; hiperplasia prostática; cuidados de enfermagem.",
+      "exclusoes": "Diuréticos → 07.01; terapia renal substitutiva no paciente crítico → 10.07; cateterismo vesical (técnica) → 02.07."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.06",
+      "subcategoria": "Sistema digestório, fígado, pâncreas e patologias",
+      "escopo": "Anatomia e fisiologia digestiva, hepática e pancreática; doença do refluxo, úlcera péptica, hemorragia digestiva, doenças inflamatórias intestinais, cirrose e complicações, pancreatite, colelitíase; fármacos gastrointestinais; cuidados de enfermagem.",
+      "exclusoes": "Hepatites virais → 04.08; cirurgias abdominais → 09.04; cuidados com estomias → 02.07."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.07",
+      "subcategoria": "Sistemas hematológico e imunológico, patologias e terapia transfusional",
+      "escopo": "Composição do sangue, hemostasia e coagulação; resposta imune; anemias (inclui doença falciforme); distúrbios da coagulação; leucemias e linfomas (visão clínica); lúpus e outras doenças autoimunes; alergias; hemocomponentes, indicações, checagem, administração e reações transfusionais.",
+      "exclusoes": "Anafilaxia → 10.03; quimioterapia → 07.09; imunologia aplicada à vacinação → 04.05."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.08",
+      "subcategoria": "Sistema musculoesquelético, patologias reumatológicas e ortopédicas",
+      "escopo": "Anatomia e fisiologia musculoesquelética; artrite reumatoide, gota, osteoartrite, osteoporose; fraturas; aparelho gessado, talas, trações e fixadores; síndrome compartimental; amputações; artroplastias.",
+      "exclusoes": "Atendimento inicial ao trauma → 10.04; locais de aplicação intramuscular (técnica) → 02.08."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.09",
+      "subcategoria": "Oncologia, tipos e tratamentos",
+      "escopo": "Carcinogênese, fatores de risco, prevenção e detecção precoce; estadiamento; quimioterapia (preparo, administração, extravasamento e manuseio seguro), radioterapia, hormonioterapia, imunoterapia e TCTH; complicações e emergências oncológicas (neutropenia febril, mucosite, lise tumoral, compressão medular).",
+      "exclusoes": "Rastreamento de colo do útero e mama → 05.03; manutenção de cateteres → 02.08."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.10",
+      "subcategoria": "Cuidados paliativos e fim de vida",
+      "escopo": "Princípios e elegibilidade (OMS; PPS, KPS); Política Nacional de Cuidados Paliativos; comunicação de más notícias (SPIKES); controle de sintomas (dor total, dispneia, náuseas, constipação, delirium); hipodermóclise; sedação paliativa; últimos dias de vida; preparo do corpo; luto.",
+      "exclusoes": "Diretivas antecipadas e dilemas bioéticos → 01.02; morte encefálica e doação → 10.09."
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.11",
+      "subcategoria": "Envelhecimento e avaliação multidimensional da pessoa idosa",
+      "escopo": "Envelhecimento populacional; senescência × senilidade; PNSPI; Estatuto da Pessoa Idosa; avaliação geriátrica ampla (Katz, Lawton-Brody, MEEM, EDG, IVCF-20); Caderneta da Pessoa Idosa.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "07",
+      "categoria": "Saúde do Adulto e do Idoso",
+      "subcategoria_codigo": "07.12",
+      "subcategoria": "Síndromes geriátricas, demências e cuidado continuado",
+      "escopo": "Quedas, incontinências, imobilidade, instabilidade postural, iatrogenia e polifarmácia (critérios de Beers), fragilidade e sarcopenia; demências, delirium e depressão na pessoa idosa; cuidador; ILPI; violência contra a pessoa idosa.",
+      "exclusoes": "Protocolo institucional de prevenção de quedas → 11.02; delirium na UTI → 10.08."
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.01",
+      "subcategoria": "Reforma psiquiátrica, política de saúde mental e RAPS",
+      "escopo": "História da psiquiatria e da Reforma Psiquiátrica; Lei 10.216/2001 (direitos e modalidades de internação); desinstitucionalização; componentes da RAPS; tipos de CAPS; Serviços Residenciais Terapêuticos; matriciamento; Projeto Terapêutico Singular.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.02",
+      "subcategoria": "Avaliação em saúde mental e psicopatologia",
+      "escopo": "Exame do estado mental; funções psíquicas e suas alterações (consciência, orientação, pensamento, sensopercepção, afeto, humor); entrevista e comunicação terapêutica em saúde mental.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.03",
+      "subcategoria": "Transtornos de ansiedade e do humor e tratamentos",
+      "escopo": "Transtornos de ansiedade, TOC e TEPT; depressão e transtorno bipolar; antidepressivos, estabilizadores do humor (lítio: nível sérico e toxicidade) e ansiolíticos; eletroconvulsoterapia (visão geral); intervenções de enfermagem.",
+      "exclusoes": "Transtornos mentais do puerpério → 05.08."
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.04",
+      "subcategoria": "Esquizofrenia, outros transtornos psicóticos e tratamentos",
+      "escopo": "Sintomas positivos e negativos; abordagem ao paciente com delírios e alucinações; antipsicóticos (efeitos extrapiramidais, síndrome neuroléptica maligna, clozapina); adesão e reabilitação psicossocial.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.05",
+      "subcategoria": "Álcool e outras drogas e redução de danos",
+      "escopo": "Padrões de uso e dependência; intoxicação e síndrome de abstinência alcoólica; tabagismo; CAPS AD; redução de danos; política sobre drogas.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.06",
+      "subcategoria": "Crise, urgências em saúde mental e prevenção do suicídio",
+      "escopo": "Manejo da crise e da agitação psicomotora (desescalada; contenção: indicações e cuidados); avaliação do risco de suicídio; fatores de proteção; posvenção; violência autoprovocada.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "08",
+      "categoria": "Saúde Mental",
+      "subcategoria_codigo": "08.07",
+      "subcategoria": "Neurodesenvolvimento, transtornos alimentares e da personalidade",
+      "escopo": "TEA e TDAH; anorexia e bulimia; transtornos da personalidade — manifestações, tratamento e abordagem de enfermagem.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "09",
+      "categoria": "Enfermagem Cirúrgica, Centro Cirúrgico e CME",
+      "subcategoria_codigo": "09.01",
+      "subcategoria": "Pré-operatório e assistência perioperatória",
+      "escopo": "SAEP; visita pré-operatória; preparo físico e emocional; jejum; preparo da pele e intestinal; consentimento; classificação ASA; classificação das cirurgias.",
+      "exclusoes": "Demarcação do local da estomia → 09.04."
+    },
+    {
+      "categoria_codigo": "09",
+      "categoria": "Enfermagem Cirúrgica, Centro Cirúrgico e CME",
+      "subcategoria_codigo": "09.02",
+      "subcategoria": "Centro cirúrgico: estrutura e equipe",
+      "escopo": "Planta física, fluxos e zonas de proteção; circulante e instrumentador; degermação e antissepsia cirúrgica das mãos; paramentação; montagem de sala e mesa.",
+      "exclusoes": "Lista de verificação de cirurgia segura → 11.02."
+    },
+    {
+      "categoria_codigo": "09",
+      "categoria": "Enfermagem Cirúrgica, Centro Cirúrgico e CME",
+      "subcategoria_codigo": "09.03",
+      "subcategoria": "Anestesia, transoperatório e recuperação pós-anestésica",
+      "escopo": "Tipos de anestesia e fármacos anestésicos (visão geral); posições cirúrgicas e prevenção de lesões; eletrocirurgia; hipotermia; contagem de compressas e instrumentais; SRPA: admissão, monitorização, índice de Aldrete e Kroulik, complicações imediatas e critérios de alta.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "09",
+      "categoria": "Enfermagem Cirúrgica, Centro Cirúrgico e CME",
+      "subcategoria_codigo": "09.04",
+      "subcategoria": "Pós-operatório, complicações, drenos e estomias",
+      "escopo": "Cuidados na unidade de internação; deiscência, evisceração, íleo, retenção urinária, TVP, atelectasia; drenos (Penrose, sucção, dreno de tórax); cuidados em cirurgias específicas; estomias: demarcação do local antes da cirurgia e complicações no pós-operatório (edema, sangramento, isquemia e necrose, retração, deiscência mucocutânea, prolapso, estenose, hérnia paraestomal).",
+      "exclusoes": "Prevenção de infecção de sítio cirúrgico → 12.04; curativos e coberturas → 02.05; cuidados de rotina com estomias (equipamentos, troca da bolsa, pele periestomal, irrigação, autocuidado) → 02.07."
+    },
+    {
+      "categoria_codigo": "09",
+      "categoria": "Enfermagem Cirúrgica, Centro Cirúrgico e CME",
+      "subcategoria_codigo": "09.05",
+      "subcategoria": "CME e processamento de produtos para saúde",
+      "escopo": "Classes de CME, áreas e fluxo unidirecional; classificação de Spaulding; limpeza, inspeção, preparo e embalagem; desinfecção e esterilização; indicadores físicos, químicos e biológicos; armazenamento, validade, distribuição e rastreabilidade.",
+      "exclusoes": "Limpeza de superfícies e do ambiente → 12.05."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.01",
+      "subcategoria": "Rede de urgência, atendimento pré-hospitalar e classificação de risco",
+      "escopo": "Rede de Atenção às Urgências e Emergências; SAMU 192 e UPA 24h; regulação; APH móvel; acolhimento com classificação de risco (Manchester: cores, prioridades e tempos-alvo); múltiplas vítimas e desastres (START).",
+      "exclusoes": "Acolhimento à demanda espontânea na UBS → 03.07."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.02",
+      "subcategoria": "Suporte de vida e emergências cardiovasculares",
+      "escopo": "Cadeia de sobrevivência; SBV, RCP de alta qualidade e DEA; obstrução de vias aéreas no adulto; SAV: ritmos de PCR, desfibrilação, fármacos (adrenalina, amiodarona), via aérea avançada, causas reversíveis e cuidados pós-PCR; síndrome coronariana aguda; arritmias instáveis; emergência hipertensiva; edema agudo de pulmão.",
+      "exclusoes": "PCR pediátrica → 06.06; reanimação neonatal → 06.04."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.03",
+      "subcategoria": "Emergências respiratórias, neurológicas, metabólicas e intoxicações",
+      "escopo": "Insuficiência respiratória aguda; crise asmática grave; AVC agudo (escalas, janela terapêutica, trombólise); crise convulsiva e estado de mal epiléptico; cetoacidose, estado hiperosmolar e hipoglicemia; anafilaxia; intoxicações exógenas, antídotos e CIATox; acidentes por animais peçonhentos e soroterapia.",
+      "exclusoes": "Intoxicações na infância → 06.06."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.04",
+      "subcategoria": "Trauma e queimaduras",
+      "escopo": "Avaliação primária (XABCDE) e secundária; TCE, trauma raquimedular, torácico, abdominal e pélvico; choque hemorrágico; imobilização e transporte; queimaduras (classificação, superfície corporal queimada, Parkland, lesão inalatória); afogamento; choque elétrico; hipotermia.",
+      "exclusoes": "TCE grave na UTI → 10.08; cuidados ortopédicos → 07.08."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.05",
+      "subcategoria": "Paciente crítico: monitorização hemodinâmica, choque e sepse",
+      "escopo": "Organização da UTI e escores de gravidade; admissão e transporte do paciente crítico; monitorização não invasiva e invasiva (PAI, PVC, débito cardíaco); tipos de choque; sepse e choque séptico (pacote da 1ª hora); ressuscitação volêmica; drogas vasoativas (preparo, titulação e cuidados).",
+      "exclusoes": "Cálculo da vazão de drogas vasoativas → 02.08; dimensionamento e NAS → 11.05."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.06",
+      "subcategoria": "Ventilação mecânica e via aérea artificial",
+      "escopo": "Intubação (preparo e cuidados); modos e parâmetros ventilatórios; alarmes; pressão do balonete; aspiração em sistema aberto e fechado; desmame e extubação; VNI; SDRA e posição prona.",
+      "exclusoes": "Pacote de prevenção de PAV → 12.04."
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.07",
+      "subcategoria": "Distúrbios hidroeletrolíticos, ácido-base e disfunções orgânicas",
+      "escopo": "Alterações de sódio, potássio, cálcio e magnésio; interpretação da gasometria arterial; acidoses e alcaloses; balanço hídrico; lesão renal aguda no crítico e terapia renal substitutiva; disfunção hepática; CIVD; disfunção de múltiplos órgãos.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.08",
+      "subcategoria": "Paciente neurocrítico, sedação, analgesia e delirium",
+      "escopo": "TCE grave; hipertensão intracraniana e PIC; derivação ventricular externa; sedativos, analgésicos e bloqueadores neuromusculares na UTI; escalas RASS, BPS e CPOT; interrupção diária da sedação; delirium (CAM-ICU); pacote ABCDEF; mobilização precoce.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "10",
+      "categoria": "Urgência, Emergência e Terapia Intensiva",
+      "subcategoria_codigo": "10.09",
+      "subcategoria": "Morte encefálica, doação de órgãos e transplantes",
+      "escopo": "Critérios e protocolo de determinação de morte encefálica; manutenção do potencial doador; entrevista familiar; CIHDOTT e OPO; aspectos legais.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.01",
+      "subcategoria": "Fundamentos da segurança do paciente e PNSP",
+      "escopo": "Conceitos (incidente, quase erro, evento adverso, dano); fatores humanos; modelo do queijo suíço; cultura de segurança; Plano de Ação Global 2021–2030; PNSP; RDC 36/2013 (NSP, plano de segurança, notificação no Notivisa).",
+      "exclusoes": "Metas internacionais e protocolos básicos → 11.02."
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.02",
+      "subcategoria": "Metas internacionais de segurança do paciente",
+      "escopo": "Visão integrada das metas e dos protocolos básicos; identificação do paciente; comunicação efetiva entre profissionais (SBAR, passagem de plantão, confirmação verbal) e transições do cuidado; segurança na prescrição, uso e administração de medicamentos ('certos' da administração, medicamentos potencialmente perigosos, erros de medicação, dupla checagem, reconciliação medicamentosa); cirurgia segura (lista de verificação, demarcação de lateralidade); prevenção de quedas (escala de Morse, medidas universais e específicas, condutas pós-queda).",
+      "exclusoes": "Higiene das mãos → 12.03 e lesão por pressão → 02.05 (com a etiqueta 'Segurança do paciente'); técnicas do centro cirúrgico → 09.02 e 09.03; quedas como síndrome geriátrica na comunidade → 07.12."
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.03",
+      "subcategoria": "Gestão de riscos, qualidade e acreditação",
+      "escopo": "Gerenciamento de riscos; notificação e análise de incidentes (análise de causa raiz, Protocolo de Londres, FMEA); comunicação aberta de eventos adversos; tríade de Donabedian; indicadores assistenciais; PDCA e ferramentas da qualidade; acreditação (ONA, JCI).",
+      "exclusoes": "Indicadores de IRAS → 12.04; indicadores epidemiológicos → 04.02."
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.04",
+      "subcategoria": "Teorias administrativas, planejamento e organização do serviço",
+      "escopo": "Escolas da administração; modelos de gestão e de organização da assistência de enfermagem; planejamento estratégico e situacional; estrutura organizacional; regimento, normas, rotinas e POP; responsabilidade técnica.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.05",
+      "subcategoria": "Dimensionamento de pessoal e classificação de pacientes",
+      "escopo": "Parâmetros de dimensionamento; sistemas de classificação de pacientes (Fugulin, Perroca, Dini); NAS; índice de segurança técnica; escalas de trabalho.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.06",
+      "subcategoria": "Liderança, trabalho em equipe e gestão de pessoas",
+      "escopo": "Estilos e teorias de liderança; supervisão; comunicação organizacional; tomada de decisão; gestão de conflitos; recrutamento, seleção e avaliação de desempenho; absenteísmo e rotatividade; estresse ocupacional e burnout na enfermagem.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "11",
+      "categoria": "Segurança do Paciente, Qualidade e Gestão em Enfermagem",
+      "subcategoria_codigo": "11.07",
+      "subcategoria": "Recursos materiais, custos e auditoria",
+      "escopo": "Previsão, provisão e controle de materiais; curva ABC; padronização; custos em saúde e em enfermagem; auditoria prospectiva, concorrente e retrospectiva; auditoria de prontuário e de contas; glosas.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.01",
+      "subcategoria": "Programa e legislação sobre IRAS",
+      "escopo": "Histórico do controle de infecção no Brasil; programa, CCIH e SCIH (composição e atribuições); PNPCIRAS; roteiros de inspeção.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.02",
+      "subcategoria": "Microbiologia, multirresistência e antimicrobianos",
+      "escopo": "Bactérias, vírus e fungos de interesse clínico; cadeia de transmissão; colonização × infecção; microrganismos multirresistentes e medidas de contenção; antimicrobianos (classes, espectro, reconstituição, aprazamento, reações adversas); programa de gerenciamento do uso de antimicrobianos.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.03",
+      "subcategoria": "Higiene das mãos e precauções padrão e específicas",
+      "escopo": "Cinco momentos; técnicas com água e sabonete e com preparação alcoólica; adesão e monitoramento; precauções padrão; precauções de contato, gotículas e aerossóis; EPI e sequência de paramentação e desparamentação; isolamento e coorte.",
+      "exclusoes": "Antissepsia cirúrgica das mãos → 09.02. Recebe a etiqueta 'Segurança do paciente'."
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.04",
+      "subcategoria": "IRAS: critérios diagnósticos, vigilância e prevenção",
+      "escopo": "Critérios diagnósticos; vigilância e indicadores de IRAS; pacotes de prevenção de PAV, infecção primária de corrente sanguínea, ITU associada a cateter e infecção de sítio cirúrgico.",
+      "exclusoes": ""
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.05",
+      "subcategoria": "Limpeza de superfícies e processamento de roupas",
+      "escopo": "Limpeza concorrente e terminal; saneantes e desinfetantes; classificação de áreas; controle ambiental; processamento de roupas de serviços de saúde (coleta, transporte, separação de roupa suja e limpa, barreira de contaminação, lavagem, armazenamento e distribuição).",
+      "exclusoes": "Processamento de artigos → 09.05; gerenciamento de resíduos → 12.06."
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.06",
+      "subcategoria": "Gerenciamento de resíduos",
+      "escopo": "Resíduos de serviços de saúde: classificação (grupos A a E); Plano de Gerenciamento de Resíduos de Serviços de Saúde (PGRSS); segregação, acondicionamento, identificação, coleta e transporte interno, armazenamento, tratamento e disposição final; responsabilidades da equipe.",
+      "exclusoes": "Prevenção de acidentes com perfurocortantes e conduta após exposição → 12.07; limpeza de superfícies → 12.05."
+    },
+    {
+      "categoria_codigo": "12",
+      "categoria": "Prevenção e Controle de Infecções e Biossegurança",
+      "subcategoria_codigo": "12.07",
+      "subcategoria": "Biossegurança, NR-32 e acidentes com material biológico",
+      "escopo": "Riscos ocupacionais em serviços de saúde; NR-32 (riscos biológicos e químicos, radiações, perfurocortantes, vacinação do trabalhador); conduta após exposição a material biológico.",
+      "exclusoes": "Demais normas regulamentadoras e saúde do trabalhador em geral → 04.04."
+    }
+  ]
+}
